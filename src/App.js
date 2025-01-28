@@ -295,9 +295,9 @@ function App() {
                   height={700}
                 />
                 <div className="flex justify-center mt-8">
-                  <button className="px-6 py-2 border-2 border-green-500 text-green-500 font-semibold rounded hover:bg-green-500 hover:text-black">
+                  <a href="https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/01/28/19/20250128195827-PNX2VV8H.json"><button className="px-6 py-2 border-2 border-green-500 text-green-500 font-semibold rounded hover:bg-green-500 hover:text-black">
                     Chat With Bot
-                  </button>
+                  </button></a>
                 </div>
               </div>
             </div>
